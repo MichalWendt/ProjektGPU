@@ -42,12 +42,19 @@ ponieważ nie jest samopodobny, co zostało dowiedzione przez chińską matematy
 Nasz zbiór możemy opisać jako te punkty p(zespolone) dla których ciąg(Zi)infi=0 zdefiniowany
 równaniem rekurencyjnym
 
+![obraz](https://user-images.githubusercontent.com/58120860/111217263-afdda980-85d5-11eb-895e-172b23169872.png)
+
 nie dąży do nieskończoności
+
+![obraz](https://user-images.githubusercontent.com/58120860/111217278-b409c700-85d5-11eb-915b-8bd8a4709a5e.png)
 
 Można wykazać, że jest to równoważne z
 
+![obraz](https://user-images.githubusercontent.com/58120860/111217282-b66c2100-85d5-11eb-9d72-ef047e60b60c.png)
 
 Podsumowując jednym zdaniem:
+
+![obraz](https://user-images.githubusercontent.com/58120860/111217298-b9ffa800-85d5-11eb-9b65-dc0f08ce6ce9.png)
 
 ## Omówienie kodu programu
 
