@@ -221,12 +221,12 @@ Windowsa, Linuxa jak i Mac OS X.
 **Kilka zalet pokazujących, że warto używać cudy:**
 
 ```
- Model pamięci procesora ściśle odpowiadający architekturze sprzętowej, co umożliwia
+> Model pamięci procesora ściśle odpowiadający architekturze sprzętowej, co umożliwia
 świadome, efektywne wykorzystywanie dostępnych zasobów GPU, w tym pamięci
 współdzielonej. Pamięć ta jest współdzielona przez wszystkie wątki w tzw. bloku (zwykle 128-
 512 wątków). Można jej używać jako programowalnej pamięci typu cache.
- Pełna kompatybilność wsteczna programów.
- Dostępność na wszystkich kartach firmy NVIDIA począwszy od serii GeForce 8
+> Pełna kompatybilność wsteczna programów.
+> Dostępność na wszystkich kartach firmy NVIDIA począwszy od serii GeForce 8
 ```
 **Aby zacząć używać cudy musimy upewnić się, że nasza karta graficzna jest do tego zdolna. W tym
 celu sprawdzamy czy znajduje się na liście GPU na stronie Nvidii:
